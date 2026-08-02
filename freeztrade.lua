@@ -11,7 +11,7 @@ local tradeConnection = nil
 
 -- GUI
 local gui = Instance.new("ScreenGui")
-gui.Name = "FreezeTrade"
+gui.Name = "Freeze Trade 🥶 v2"
 gui.ResetOnSpawn = false
 gui.IgnoreGuiInset = true
 gui.Parent = game:GetService("CoreGui")
